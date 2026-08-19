@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "liveness": {
+        "passed": true,
+        "prediction": "genuine",
+        "confidence": 0.9845,
+        "response_time_ms": 1250.4
+    },
+    "ocr_data": {
+        "user_name": "নাফিস আহমেদ সিহাব",
+        "nid": "6001608451",
+        "dob": "02 Feb 1997",
+        "card_number": "2614179000231",
+        "location": "ঢাকা, ধামরাই, চৌহাট, ওয়ার্ড - ০১",
+        "mobile": "01686901725"
+    },
+    "verification": {
+        "is_valid": true,
+        "tcb_server_status": "success",
+        "message": "Card data successfully extracted and verified without OCR."
+    }
+}
